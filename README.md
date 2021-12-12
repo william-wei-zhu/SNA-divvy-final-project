@@ -3,5 +3,5 @@
 - A collaboration between David Xu (dxu7@uchicago.edu) and William Zhu (wzhu4@uchicago.edu).
 - This repository contains the jupyter notebook, the final paper, figures, and data folder.
 
-![Louvain Comparison](https://github.com/william-wei-zhu/SNA-divvy-final-project/figures/paper_figures/f3.png)
+![Louvain Comparison](https://github.com/william-wei-zhu/SNA-divvy-final-project/blob/main/figures/paper_figures/f3.png)
 
